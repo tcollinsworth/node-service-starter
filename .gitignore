@@ -1,0 +1,7 @@
+logs
+tmp
+*.log
+node_modules
+*~
+public/www
+credentials
